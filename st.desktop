@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Exec=st
+Exec=st -f "Terminus:pixelsize=24:lcdfilter=lcddefault:hintstyle=hintnone:rgba=rgb:antialias=false:autohint=false"
 TryExec=st
 Icon=utilities-terminal
 Terminal=false
